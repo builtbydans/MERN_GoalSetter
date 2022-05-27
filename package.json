@@ -1,0 +1,19 @@
+{
+  "name": "mern_crud",
+  "version": "1.0.0",
+  "description": "Goalsetter MERN application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builtbydans/MERN_GoalSetter.git"
+  },
+  "author": "Danish Shafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/builtbydans/MERN_GoalSetter/issues"
+  },
+  "homepage": "https://github.com/builtbydans/MERN_GoalSetter#readme"
+}
